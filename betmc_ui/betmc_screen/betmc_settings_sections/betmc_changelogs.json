@@ -15,6 +15,17 @@
     ],
     "controls": [
       {
+        "v1_0_0_stable@betmc_menu_common.betmc_changelog_version_toggle": {
+          "$betmc_changelog_version": "v1.0.0 Stable",
+          "$betmc_details_label_controls": [
+            { "betmc_date@betmc_menu_common.betmc_menu_label": { "text": "2026/02/28 | 12:30 GMT+7" }},
+            { "betmc_feature_label_0@betmc_menu_common.betmc_details_label":{ "$betmc_text": "Official final stable release of BetMC UI" }},
+            { "betmc_feature_label_1@betmc_menu_common.betmc_details_label":{ "$betmc_text": "Consolidated and polished UI feature descriptions across settings" }},
+            { "betmc_feature_label_2@betmc_menu_common.betmc_details_label":{ "$betmc_text": "Stability and consistency pass completed for the add-on" }}
+          ]
+        }
+      },
+      {
         "v1_0_0-b5@betmc_menu_common.betmc_changelog_version_toggle": {
           "$betmc_changelog_version": "v1.0.0-beta 5",
           "$betmc_details_label_controls": [
