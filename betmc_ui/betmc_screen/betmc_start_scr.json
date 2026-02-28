@@ -30,7 +30,7 @@
   "betmc_pack_version@betmc_common.empty_label_font_custom": {
     "color": "$main_header_text_color",
     "layer": 2,
-    "text": "BetMC UI v1-beta 4",
+    "text": "BetMC UI v1.0.0 Stable",
     "shadow": true,
     "font_type": "$betmc_start_label_font_type",
     "font_scale_factor": 0.85
@@ -167,11 +167,6 @@
     "$button_text": "Exit Game"
   },
 
-  "menu_button@betmc_start.betmc_main_button": {
-    "$pressed_button_name": "button.menu_buy_game",
-    "$betmc_button_icon_textures": "betmc_res/betmc_icon/betmc_menu",
-    "$button_text": "BetMC Menu"
-  },
 
   "inbox_button@betmc_start.betmc_main_content_button": {
     "$button_content": "betmc_start.inbox_icon",
@@ -212,7 +207,6 @@
           ]
         }
       },
-      { "menu_button@betmc_start.menu_button": {} },
       { "exit_button@betmc_start.exit_button": {} }
     ]
   },

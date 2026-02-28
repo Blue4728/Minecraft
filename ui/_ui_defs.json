@@ -8,13 +8,7 @@
     "betmc_ui/betmc_common/betmc_toggle.json",
     "betmc_ui/betmc_common/betmc_tab_toggle.json",
     "betmc_ui/betmc_common/betmc_dialog.json",
-    "betmc_ui/betmc_common/betmc_menu_common.json",
     "betmc_ui/betmc_screen/betmc_settings_sections/betmc_setting_common.json",
-    "betmc_ui/betmc_screen/betmc_settings_sections/betmc_pack_info.json",
-    "betmc_ui/betmc_screen/betmc_settings_sections/betmc_changelogs.json",
-    "betmc_ui/betmc_screen/betmc_settings_sections/betmc_pack_credit.json",
-    "betmc_ui/betmc_screen/betmc_settings_sections/betmc_pack_features.json",
-    "betmc_ui/betmc_screen/betmc_settings_sections/betmc_music_player.json",
     "betmc_ui/betmc_screen/betmc_settings_sections/betmc_world_section.json",
     "betmc_ui/betmc_screen/betmc_settings_sections/betmc_general_section.json",
     "betmc_ui/betmc_screen/betmc_start_scr.json",
@@ -29,7 +23,6 @@
     "betmc_ui/betmc_screen/betmc_hud_scr.json",
     "betmc_ui/betmc_screen/betmc_inventory_scr.json",
     "betmc_ui/betmc_screen/betmc_chest_scr.json",
-    "betmc_ui/betmc_screen/betmc_menu_scr.json",
     "betmc_ui/betmc_screen/betmc_chat_scr.json",
     "betmc_ui/betmc_screen/betmc_chat_settings_menu_scr.json"
   ]
