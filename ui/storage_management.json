@@ -1,0 +1,7 @@
+{
+  "namespace": "storage_management",
+  "resource_toggle/item_button_panel/y_sizing_panel/border/button_panel/generate_texture_list_panel/generate_texture_list_button": {
+    "$button_texture": "textures/ui/UpdateGlyph",
+    "ignored": "(not ($panel_prefix = resource))"
+  }
+}
