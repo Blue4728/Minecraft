@@ -44,7 +44,7 @@
       { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "Thank you for downloading BetMC UI" }},
       { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "This resource pack is a UI add-on that adds a bit of extra functionality to Minecraft!" }},
       { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "It does not use any behavior packs and can be used on all but a few servers and multiplayer!" }},
-      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "§cNOTE: This resource pack is in beta release, it may have bugs in this resource pack." }}
+      { "betmc_info_0@betmc_menu_common.betmc_sex_text": { "text": "§aSTABLE: This resource pack is now in its final stable release." }}
     ]
   }
 }
