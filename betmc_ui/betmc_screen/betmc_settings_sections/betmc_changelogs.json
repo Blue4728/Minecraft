@@ -15,6 +15,17 @@
     ],
     "controls": [
       {
+        "v1_0_0-b5@betmc_menu_common.betmc_changelog_version_toggle": {
+          "$betmc_changelog_version": "v1.0.0-beta 5",
+          "$betmc_details_label_controls": [
+            { "betmc_date@betmc_menu_common.betmc_menu_label": { "text": "2026/02/28 | 12:00 GMT+7" }},
+            { "betmc_feature_label_0@betmc_menu_common.betmc_details_label":{ "$betmc_text": "Refined feature descriptions for clearer in-game documentation" }},
+            { "betmc_feature_label_1@betmc_menu_common.betmc_details_label":{ "$betmc_text": "Improved wording consistency across HUD and screen feature labels" }},
+            { "betmc_feature_label_2@betmc_menu_common.betmc_details_label":{ "$betmc_text": "Updated particle and visual feature notes to better match actual behavior" }}
+          ]
+        }
+      },
+      {
         "v1_0_0-b4@betmc_menu_common.betmc_changelog_version_toggle": {
           "$betmc_changelog_version": "v1.0.0-beta 4",
           "$betmc_details_label_controls": [
